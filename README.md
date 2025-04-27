@@ -12,7 +12,8 @@ npm run dev
 ### Frontend
 ```
 cd frontend
-# follow instructions in frontend/README.md
+npm install
+ng serve
 ```
 
 ---
